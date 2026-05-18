@@ -53,7 +53,7 @@ export default function Info() {
           </Filled>
         </Link>
 
-        <Link href="https://www.linkedin.com/in/elia-franzella-20a046234/">
+        <Link href="https://www.linkedin.com/in/elia-franzella/">
           <Filled interactive>
             <Linkedin className="fill-foreground w-3" />
             LinkedIn
